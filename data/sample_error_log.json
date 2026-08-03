@@ -1,0 +1,1 @@
+{"timestamp": "2026-06-25T21:08:44.936Z", "error_id": "M5_BABY_MONITOR_01_ERROR", "hardware_component": "EzData", "error_details": {"error_code": 503, "message": "EzData failed.", "retry_attempt": 1}, "severity": "Warning"}
